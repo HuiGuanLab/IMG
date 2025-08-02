@@ -2,7 +2,7 @@
 Repo for ACM MM'25 paper "*Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval*". This paper proposes solutions for the Video Moment Retrieval task from an audio-visual collaborative perspective.
 
 
-![framework](figures/framework.jpg)
+![framework](figures/Framework.jpg)
 
 
 Ubuntu 20.04

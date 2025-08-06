@@ -8,7 +8,9 @@ Repo for ACM MM'25 paper "*Audio Does Matter: Importance-Aware Multi-Granularity
 ## Table of Contents
 
 * [Environments](#Environment)
-* [DATA](#DataPreparation)
+* [Data](#DataPreparation)
+* [Train](#Training)
+* [Eval](#Inference)
 * [Acknowledgement](#Acknowledgement)
 
 

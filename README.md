@@ -21,9 +21,11 @@ conda env create -f env.yml
 
 ## Data Preparation
 
-Follow previous work [ADPN](https://github.com/hlchen23/ADPN-MM), we use GloVe-840B-300d for text embeddings, I3D/CLIP+SF/Internvideo2 visual features and PANNs audio features for Charades-STA dataset, and I3D visual features and VGGish audio features for ActivityNet Captions dataset. 
+Follow previous work [ADPN](https://github.com/hlchen23/ADPN-MM), we use GloVe-840B-300d for text embeddings, I3D/CLIP+SF/InternVideo2 visual features and PANNs audio features for Charades-STA dataset, and I3D visual features and VGGish audio features for ActivityNet Captions dataset. 
 
-We have also prepared CLIP and intervideo2 features, CLIP features are extracted by ourselves, while Internvideo2 features is derived from [here](https://huggingface.co/cg1177). 
+We have also prepared CLIP + SlowFast and InternVideo2 features, CLIP features are extracted by ourselves, SlowFast features is derived from [here](https://github.com/wjun0830/CGDETR), while InternVideo2 features is derived from [here](https://huggingface.co/cg1177). 
+
+We already prepare all data below.
 
 Download [here](https://drive.google.com/drive/folders/1yu9-7SFVUKCbO1dgMcODGdaE1mIBkDsC?usp=sharing) to get Charades-STA features and Activitynet-Caption's audio features and json files. 
 

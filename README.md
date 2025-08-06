@@ -7,11 +7,11 @@ Repo for ACM MM'25 paper "*Audio Does Matter: Importance-Aware Multi-Granularity
 
 ## Table of Contents
 
-* [Environments](#Set up the environment)
+* [Environments](#Environment)
 * [Acknowledgement](#Acknowledgement)
 
 
-## Set up the environment
+## Environment
 
 * **Ubuntu 20.04**
 * **CUDA 12.0**

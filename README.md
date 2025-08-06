@@ -12,6 +12,15 @@ Python 3.7
 
 ## Set up the environment
 
+* **Ubuntu 20.04**
+* **CUDA 12.0**
+* **Python 3.7**
+* **tensorboard 2.6.0**
+* **tqdm 4.62.0**
+* **easydict 1.9**
+* **h5py 2.10.0**
+* **cuda 11.1**
+
 Use Anaconda and easily build up the required environment by
 
 ```bash

@@ -20,6 +20,7 @@ Repo for ACM MM'25 paper "*Audio Does Matter: Importance-Aware Multi-Granularity
 * **CUDA 12.0**
 * **Python 3.7**
 * **torch 1.13.1**
+* **torchvision 0.7.0**
 
 Use Anaconda and easily build up the required environment by
 

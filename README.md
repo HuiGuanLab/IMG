@@ -8,6 +8,7 @@ Repo for ACM MM'25 paper "*Audio Does Matter: Importance-Aware Multi-Granularity
 ## Table of Contents
 
 * [Environments](#Environment)
+* [DATA](#DataPreparation)
 * [Acknowledgement](#Acknowledgement)
 
 
@@ -25,7 +26,7 @@ cd IMG
 conda env create -f env.yml
 ```
 
-## Data Preparation
+## DataPreparation
 
 Follow previous work [ADPN](https://github.com/hlchen23/ADPN-MM), we use GloVe-840B-300d for text embeddings, I3D/CLIP+SF/InternVideo2 visual features and PANNs audio features for Charades-STA dataset, and I3D visual features and VGGish audio features for ActivityNet Captions dataset. 
 

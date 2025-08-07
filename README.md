@@ -122,5 +122,5 @@ This work was supported by the Pioneer and Leading Goose R\&D Program of Zhejian
 
 ## Citation
 
-If you find IMG useful for your project or research, welcome to 🌟 this repo
+If you find IMG useful for your project or research, welcome to 🌟 this repo.
 

@@ -15,7 +15,7 @@ You can find our pre-print paper from [arxiv](https://arxiv.org/abs/2508.04273).
 * [Training](#Training)
 * [Inference](#Inference)
 * [Acknowledgement](#Acknowledgement)
-* [Acknowledgement](#Citation-💖)
+* [Citation](#Citation-💖)
 
 
 ## Set up the Environment

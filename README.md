@@ -1,16 +1,5 @@
 <h1 align="center">Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval</h1>
 
-<div align="center">
-    <strong>Junan Lin</strong><sup>*</sup>&emsp;
-    <strong>Daizong Liu</strong><sup>*</sup>&emsp;
-    <strong>Xianke Chne</strong><sup></sup>&emsp;
-    <strong>Xiaoye Qu</strong><sup></sup>&emsp;
-    <strong>Yang Xun</strong><sup></sup>&emsp;
-    <strong>Jixiang Zhu</strong><sup></sup>&emsp;
-    <strong>Sanyuan Zhang</strong><sup></sup>&emsp;
-    <strong>Jianfeng Dong</strong><sup>†</sup>&emsp;
-</div>
-
 Repo for ACM MM'25 paper "*Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval*". This paper proposes solutions for the Video Moment Retrieval task from an audio-visual collaborative perspective.
 
 
@@ -26,6 +15,7 @@ You can find our pre-print paper from [arxiv](https://arxiv.org/abs/2508.04273).
 * [Training](#Training)
 * [Inference](#Inference)
 * [Acknowledgement](#Acknowledgement)
+* [Acknowledgement](#Citation-💖)
 
 
 ## Set up the Environment
@@ -124,10 +114,13 @@ Change the config `model_name` in `main.py` to the model_name of `your checkpoin
 
 
 
-
 ## Acknowledgement
 
 We follow the repo [ADPN](https://github.com/hlchen23/ADPN-MM) and [VSLNet](https://github.com/26hzhang/VSLNet) for the code-running framework to quickly implement our work. We appreciate these great jobs.
 
 This work was supported by the Pioneer and Leading Goose R\&D Program of Zhejiang (No. 2024C01110), National Natural Science Foundation of China (No. 62472385), Young Elite Scientists Sponsorship Program by China Association for Science and Technology (No. 2022QNRC001), Public Welfare Technology Research Project of Zhejiang Province (No. LGF21F020010), Fundamental Research Funds for the Provincial Universities of Zhejiang (No. FR2402ZD) and Zhejiang Provincial High-Level Talent Special Support Program.
+
+## Citation 💖
+
+If you find MS-DETR useful for your project or research, welcome to 🌟 this repo
 

@@ -1,5 +1,15 @@
 <h1 align="center">Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval</h1>
 
+<div align="center">
+    <strong>Junan Lin</strong><sup>*</sup>&emsp;
+    <strong>Daizong Liu</strong><sup>*</sup>&emsp;
+    <strong>Xianke Chne</strong><sup></sup>&emsp;
+    <strong>Xiaoye Qu</strong><sup></sup>&emsp;
+    <strong>Yang Xun</strong><sup></sup>&emsp;
+    <strong>Jixiang Zhu</strong><sup></sup>&emsp;
+    <strong>Sanyuan Zhang</strong><sup></sup>&emsp;
+    <strong>Jianfeng Dong</strong><sup>†</sup>&emsp;
+</div>
 
 Repo for ACM MM'25 paper "*Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval*". This paper proposes solutions for the Video Moment Retrieval task from an audio-visual collaborative perspective.
 

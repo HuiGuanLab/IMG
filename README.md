@@ -122,5 +122,16 @@ This work was supported by the Pioneer and Leading Goose R\&D Program of Zhejian
 
 ## Citation
 
-If you find IMG useful for your project or research, welcome to 🌟 this repo.
+If you find IMG useful for your project or research, welcome to 🌟 this repo and cite our paper:
+
+```
+@inproceedings{lin2025audio,
+  title={Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval},
+  author={Lin, Junan and Liu, Daizong and Chen, Xianke and Qu, Xiaoye and Yang, Xun and Zhu, Jixiang and Zhang, Sanyuan and Dong, Jianfeng},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={6027--6036},
+  year={2025}
+}
+```
+
 

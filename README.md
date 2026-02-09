@@ -1,9 +1,12 @@
-<h1 align="center">Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval</h1>
+<div align="center">
+  
+# 【ACM MM'2025】Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval
+[![Conference](https://img.shields.io/badge/NeurIPS-2025-ff69b4.svg)](https://dl.acm.org/doi/abs/10.1145/3746027.3754982)
+[![Paper](http://img.shields.io/badge/Paper-arxiv.2505.12499-FF6B6B.svg)](https://arxiv.org/abs/2508.04273)
+</div>
 
 Repo for ACM MM'25 paper "*Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval*". This paper proposes solutions for the Video Moment Retrieval task from an audio-visual collaborative perspective.
 
-
-You can find our pre-print paper from [arxiv](https://arxiv.org/abs/2508.04273).
 
 ![framework](figures/framework.jpg)
 
